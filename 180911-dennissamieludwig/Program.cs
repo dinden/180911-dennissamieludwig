@@ -6,7 +6,7 @@ namespace _180911_dennissamieludwig
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hej det var en gång");
         }
     }
 }
